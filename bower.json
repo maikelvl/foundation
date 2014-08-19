@@ -16,9 +16,9 @@
     "jquery.autocomplete": "devbridge/jQuery-Autocomplete#1.2.9",
     "lodash": "~2.4.1"
   },
-  "private": true
+  "private": true,
   "ignore": [
     "node_modules",
     "bower_components"
-  ],
+  ]
 }
