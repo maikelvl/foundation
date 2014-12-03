@@ -1,5 +1,5 @@
 {
-  "name": "foundation",
+  "name": "crobays/foundation",
   "version": "{{VERSION}}",
   "main": [
     "css/foundation.css",
