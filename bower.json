@@ -1,6 +1,6 @@
 {
   "name": "crobays/foundation",
-  "version": "{{VERSION}}",
+  "version": "5.4.7",
   "main": [
     "css/foundation.css",
     "css/foundation.css.map",
